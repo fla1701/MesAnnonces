@@ -1,6 +1,8 @@
 	<?php
 $__TEST = false;
 
+// test
+
 include ( "MA_saisie_annonces.php" );
 include ( "MA_affichage_annonces.php" );
 include ( "MA_fonctions_generales.php" );
